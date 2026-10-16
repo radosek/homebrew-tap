@@ -1,5 +1,5 @@
 class Urban < Formula
-  desc "URBAN - The Cyborg Project (1999 action game), ported to Rust"
+  desc "Cyborg Project: 1999 side-scrolling action game, ported to Rust"
   homepage "https://github.com/radosek/urban-cyborg-project"
   url "https://github.com/radosek/urban-cyborg-project/archive/refs/tags/v2.0.1.tar.gz"
   sha256 "38f5921a01dada8cad6e22f2df7082dbed442db5ec2d1727ab9a51ff5aa7c859"
